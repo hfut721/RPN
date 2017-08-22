@@ -73,8 +73,3 @@ then you can do as follow:
    cd $ROOT/
    sh experiments/scripts/train_resnet101_bn_scale_merged_0712_end2end.sh
   ```
-or
-  ```Shell
-   cd $ROOT/
-   sh experiments/scripts/train_resnet101_bn_scale_merged_0712_end2end_ohem.sh
-  ```
