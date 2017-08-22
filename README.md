@@ -1,4 +1,5 @@
 # Code and Demo For Fine-grained car recognition method based on region proposal networks [Under Review]
+# Our trained caffemodel and training files will be release after paper be accepted.
 
 
 This code modified from :
